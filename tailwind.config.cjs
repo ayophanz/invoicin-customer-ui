@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  important: '.organization-container',
+  important: '.customer-container',
   content: [
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
